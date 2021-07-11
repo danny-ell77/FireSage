@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+video/
+Images/
 custom-hold-311317-741f94141d3e.json
 custom-hold-311317-aa296314ddd8.json
 custom-hold-311317-fcf198d7be95.json
