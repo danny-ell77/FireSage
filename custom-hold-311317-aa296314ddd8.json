@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "custom-hold-311317",
+  "private_key_id": "aa296314ddd8e5202fec4bd4b0b37ce1f60b1136",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpxISUAAUNkqsn\nYu+HMrmqgva7PtdIt79911Ea+GNbw5YTAJIkIaK40c+/A8Ev3iqHMeAZ0a1/1Nqw\nXKPBwOzRMuisnmH7vZUSYn+UzRb99JPdChCGeaNhZrymuHcgukQ61gPiQCAaAmZG\n1Fc+eFTmhRu1mk0BIz6vS7gI+gMCoqAKPgD/l7VTRxQR7zMx271+9ULe2DYdjcOR\nBXjh9LdeXQzAyplNIiQFFMDwiL6zgjQdmzJXvxXt77yfBpe2b5t39GRaMiq9aqqy\nzS7MXwlKd/uJxL3tpMEMtosGnSsZxKOKjB8jImZMLuNOw8ws+y5jeMcJG0GsUFbq\nfB1APJ3jAgMBAAECggEAAW0JYGjJME0zPRT9MOg9jbDieA5XDIleH1SrrADuksmJ\nwLIIXYpAfRD0vyzaI5Dhm9xjvD3bJ3Nv7FpyQI9iXmxsUiShKNYpwafeLVCnAwbe\nmOzSN1eH82zf8oM1pt7ZpfjKGjD3SWTJupOSanf3My8RN38IdIIoaATILzdp7QWi\nYbHdCVuieF/6Lpy/I8xLPXtrW7CMJOoAX2dAdTBpgzyHeC1MY3ACRl1o2J5rZFw6\nQ1eyBfq48UNNtvoC39FCE9SSuB4onPPjL9An2ysW18aMNtZCLs2jxYYu8r/duxKS\nDKHR5G+jyJ64OljEGpQwKI8iCnufE2o3j6rj/2e67QKBgQDUXfnHstPFdyS/Jjzk\n/Ayz9a2BpUFTTFJY0zNPdbeaF4bweZzMlc6lWES4xIkMU+szpEuqKb97c37h5F+H\n9ea4JGL8WsW4Sit24laVDN8Lr1Kc7pVVTUvFRphEB7uJLKkP3/W+hokXwqMe5382\nBeP7W/w4hKBV2Rz8bm09Qz/uzwKBgQDMpeicW9N+PgUVcOSJH40Mp5uBh46k0XUJ\nnQlRtD8G9krHrbILlobUHasU8qn02/kZQNMnzfO0AwveXMS0l+IrMG/3sOKACk5W\nlWMtvuwqDn1MDHdw85ccsy7/fBHWBkmn90wpoegD+wUSrxjeJV7E26KVxoM0aN3K\n/1cbWCMErQKBgQC++vhbD8YEyf3A7SlMICNoX2M2uR/DQlq3yM9XAR0pNUlDz4ok\nLgDVj0jWBODetkVJftIQ6FRsN9R+XvtOcOSY6xgdq6At+H2X/zov9pBLmNKpkKG5\nQbcHZVIfs/iCByjOvvDn82Mse/xoGXW8ZpW9Ad8UEKmEKqk3ljMlKeo/3wKBgFgg\nggEDUholHw9SpDegjJ8MdlzbQUQcpufS5jZ3BkU7PoyqceenlLw3YnsM3L+DEswb\nLFMRz4aPYUcKb/LNDSpIG49wbrlwtrd2cVU7yHt77d0X6T+MxmAnkW+XwB6IaqOY\nTQYIoN9F87NOD8lqElt3sZYJ/GpPVmOafapa1AmpAoGAMziyMx2ZtxEUj3abWcja\nL9YBH2MQLapUAEJn46YxBE8Ytt3qMzQN2yjxq2cnew+QtegnkcPYXI7JOsA0rE+1\nIdNAisGSEPR+oG9yhC747Bq7w+QfPion4hMR5eUbYZcy3QLx3V5Qq8U6tA+unhhL\nM1EFeob0/mOpzQ3+56nuTyw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firesagecloudstorage@custom-hold-311317.iam.gserviceaccount.com",
+  "client_id": "102903645658435580114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firesagecloudstorage%40custom-hold-311317.iam.gserviceaccount.com"
+}
